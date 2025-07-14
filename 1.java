@@ -1,4 +1,4 @@
-public class prg2{
+public class 1{
 public static void main(String[] args){
 System.out.println("welcome");
 System.out.println("to");
